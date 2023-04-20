@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+
+body {
+  padding: 20px;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.padd {
+  padding-left: 20px;
+}
+
+h3 {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+p {
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+span {
+  padding-top: 10px;
+  padding-left: 40px;
+}
